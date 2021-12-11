@@ -1,11 +1,11 @@
 {
-	"masterVersionFile":"https://drive.google.com/u/0/uc?id=19RqgOfbSk9ash4OzjW6H7-8nHOfqxHos&export=download",
+	"masterVersionFile":"https://raw.githubusercontent.com/Crazymoniker/Starsector-A-New-Level/main/ANewLevel20.version",
 	"modName":"A New Level of Confidence - 20",
 	"modThreadId":20535,
 	"modVersion":
 	{
 		"major":2,
-		"minor":1,
+		"minor":0,
 	},
 	"starsectorVersion":".95.1a-RC3"
 }
