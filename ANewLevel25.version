@@ -4,8 +4,8 @@
 	"modThreadId":20535,
 	"modVersion":
 	{
-		"major":2,
-		"minor":1,
+		"major":3,
+		"minor":0,
 	},
-	"starsectorVersion":".95.1a-RC1"
+	"starsectorVersion":".96a"
 }
